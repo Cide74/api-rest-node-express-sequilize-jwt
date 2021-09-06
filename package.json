@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-node-express-sequilize-jwt",
+  "version": "1.0.0",
+  "description": "utilisation de :\r Node JS\r Express\r Sequelize\r JWT",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cide74/api-rest-node-express-sequilize-jwt.git"
+  },
+  "keywords": [],
+  "author": "Régis BRUNET BLEC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cide74/api-rest-node-express-sequilize-jwt/issues"
+  },
+  "homepage": "https://github.com/Cide74/api-rest-node-express-sequilize-jwt#readme"
+}
